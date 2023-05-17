@@ -1,5 +1,5 @@
 # 2023_Coding_test
->1. IT 미래인재 릴레이 장학금 코딩테스트 모의문제이다.
+>1. IT 미래인재 릴레이 장학금 코딩테스트 모의문제
 
 [모양 판별하기] \
 <img src= "https://github.com/park-sangeun/NHN_Coding_test/assets/90459890/b0996f51-6365-4a9c-8c33-791e2c238224" width="500">
